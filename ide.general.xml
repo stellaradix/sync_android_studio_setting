@@ -10,5 +10,6 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
     <entry key="ide.instant.shutdown" value="false" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
